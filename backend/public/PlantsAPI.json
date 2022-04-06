@@ -1,0 +1,241 @@
+[{
+        "id": 0,
+        "name": "Pink syngonium",
+        "img": "https://cdn.shopify.com/s/files/1/0410/5764/8795/products/Screenshot_20210629-143348_Instagram.jpg?v=1624963305",
+        "orgin": "West Indies, Bolivia, Brazil, Mexico, and Ecuador.",
+        "Site": "Indoor",
+        "careLevel": " Easy Care",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": " Water: On average this is around once per week in the spring and summer and once every 10-14 days in the fall and winter",
+            "temp": " Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": " Humidity: average",
+            "petFriendly": " Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Chinese Evergreen Snow White",
+        "img": "https://cdn.shopify.com/s/files/1/0538/7583/5073/products/IMG_0530_560x680_crop_center.jpg?v=1632502283",
+        "orgin": " South-East Asia: the plant can be found in Thailand, Sri Lanka, Indonesia and the Philippines",
+        "Site": "Indoor",
+        "careLevel": " Easy Care",
+        "care": {
+            "light": "Light: Low to Medium",
+            "water": "Water: Wait till the top soil is dry to touch then water thoroughly. Never let the roots sit in standing water; ensure the pot has proper drainage.",
+            "temp": "Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": "Humidity: Average",
+            "petFriendly": " Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Calathea Fusion White",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Calathea-Fusion-White-Grow-Pot-Small_1000x1000.jpg?v=1646866482",
+        "orgin": " Originates from the Tropical Americas.",
+        "Site": "Indoor",
+        "careLevel": " Medium Care (Tend to be finicky) ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water: Once the top inch of soil is dry, your plant needs more water. In the summer, you'll likely water once a week. Druing winter water every two weeks",
+            "temp": "Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": "Humidity: Average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Sansevieria zeylanica",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Sansevieria-Zeylancia-Grow-Pot-Small_1000x1000.jpg?v=1626291308",
+        "orgin": "It's native to the South East Asian Region, especially found in India and Sri Lanka",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water: Water when soil dries out, roughly 1x/week",
+            "temp": "Temp: 60°F to 75°F (15°C to 24°C)",
+            "humidity": "Humidity: Average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Begonia Polka Dot",
+        "img": "http://cdn.shopify.com/s/files/1/0056/8970/4482/products/IMG_4956.jpg?v=1633732593",
+        "orgin": "Southeast Brazil",
+        "Site": "Indoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": " Light: Medium to Bright Indirect",
+            "water": "Water: Water when the top 50%-75% of the soil is dry",
+            "temp": "Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": "Humidity: Above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Monstera adansonii",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Monstera-Adansonii-Grow-Pot-Small_1000x1000.jpg?v=1645888993",
+        "orgin": "Central and South America, parts of southern Mexico, and the West Indies",
+        "Site": "Indoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water :Should be watered when the top 3-4 inches of the potting mix are dry. This converted to days would be every 7-8 days in the summer and every 13-14 days in the cooler months",
+            "temp": "Temp: 60°F to 75°F (15°C to 24°C)" ,
+            "humidity": "Humidity: Above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pothos Golden",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/detail-Pothos-Golden-1-Small_1000x1000.jpg?v=1627815259",
+        "orgin": "Southeastern Asia",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect"                    ,
+            "water": " Water: Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light(warmer months) and less often in lower light(colder months).",
+            "temp": "Temp: 65°F-85°F range (18°C-30°C)",
+            "humidity": "Humidity: Above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Sansevieria Dragon Fingers",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Sansevieira-Dragon-Fingers-Grow-Pot-Large_1000x1000.jpg?v=1646434278",
+        "orgin": "This species is from Angola and belongs to the Dracaenaceae family, or dragon tree family.",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water: Just water when the soil is dry, once or twice a month",
+            "temp": "Temp: 18°C (65°F) - 27°C (80°F).",
+            "humidity": "Humidity: above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Alocasia Ninja",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Alocasia-Ninja-Grow-Pot-Small_1000x1000.jpg?v=1633538903",
+        "orgin": " Tropical areas of the South Pacific Islands, particularly the Philippines",
+        "Site": "Indoor and Outdoor(during warm months)",
+        "careLevel": " Medium Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water: Once the top inch of soil is dry, your plant needs more water. In the summer, you'll likely water once a week. Druing winter water every two weeks"        ,
+            "temp": "Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": "Humidity: Above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Parlor Palm",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Parlor-Palm-Grow-Pot-Small_1000x1000.jpg?v=1628621514",
+        "orgin": " Native to the rainforests in Southern Mexico and Guatemala",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Medium Care ",
+        "care": {
+            "light": " Light: Low to Bright Indirect",
+            "water": " Water: During the cold months, water when the soil is completely dry. Water more often in the summer as the plant it transpiring water at a much faster rate.",
+            "temp": "Temp: Average warmth 65°F (18°C) and above is fine and no less than 50°F (10°C) at night.",
+            "humidity": "Humidity: Average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Ponytail Palm",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Ponytail-Palm-Grow-Pot-Small_1000x1000.jpg?v=1586360312",
+        "orgin": "Southeastern Mexico",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Bright Indirect",
+            "water": "Water: Ponytail palm will need its soil to dry well between watering, and if you have any doubt as to whether or not to water the plant, skip it until the next week.",
+            "temp": "Temp: Ponytail Palms like warm temperatures above15°C.Although the can survive continuous temperatures lower than 15°C, they do not grow well.",
+            "humidity": "Humidity: Average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Bird of Paradise White",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Calathea-Fusion-White-Grow-Pot-Small_1000x1000.jpg?v=1646866482",
+        "orgin": "South Africa",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Bright Indirect",
+            "water": "Water: Birds of Paradise enjoy moist (but not soggy) soil, and being allowed to dry out (slightly) between waterings.",
+            "temp": "Temp: 65°F-85°F range (18°C-30°C)",
+            "humidity": "Humidity: Above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Ficus benjamina Braid",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Ficus-benjamina-Grow-Pot-Extra-Large_1000x1000.jpg?v=1641400136",
+        "orgin": "Native Asia, Malaysia and Australia.",
+        "Site": "Indoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": "Light: Bright Indirect",
+            "water": "Water: Allow 75% of the soil to dry between watering.",
+            "temp": "Temp: 65 to 85 degrees Fahrenheit (18 to 29 degrees Celsius)",
+            "humidity": "Humidity: above average",
+            "petFriendly": "Pet Frienddly? NO"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Calathea warscewiczii",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Calathea-warsceweczii-Grow-Pot-Extra-Large_1000x1000.jpg?v=1611680550",
+        "orgin": "Central and South America such as Costa Rica.",
+        "Site": "Indoor and Outdoor",
+        "careLevel": " Easy to Medium Care ",
+        "care": {
+            "light": "Light: Low to Bright Indirect",
+            "water": "Water: when the top inch of the soil dries out. Your plant should remain consistently moist, but not wet, so don't let it dry out too much and do not overwater it.",
+            "temp": "Temp: Average. During the growing season they prefer 65-85ºF (18-29ºC) and can tolerate 90ºF (32ºC) or above with sufficient humidity.",
+            "humidity": "Humidity: above average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Staked Syngonium White Butterfly",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Syngonium-Arrowhead-Vine-White-Butterfly-Grow-Pot-Pole-Extra-Large_1000x1000.jpg?v=1588607742",
+        "orgin": " Mexico to Brazil.",
+        "Site": "Indoor",
+        "careLevel": " Easy to Medium Care ",
+        "care": {
+            "light": " Light: Low to Bright Indirect",
+            "water": "Water: Allow soil to dry between thorough waterings. ",
+            "temp": "Temp: Average",
+            "humidity": "Humidity: average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Peperomia Marble",
+        "img": "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/Calathea-Fusion-White-Grow-Pot-Small_1000x1000.jpg?v=1646866482",
+        "orgin": "Originated in Mexico",
+        "Site": "Indoor",
+        "careLevel": " Easy Care ",
+        "care": {
+            "light": " Light: Low to Bright Indirect",
+            "water": "Water: Allow the soil to dry out slightly on top before watering",
+            "temp": "Temp: 60°F(15°C)-80°F (26°C)",
+            "humidity": "Humidity: Average",
+            "petFriendly": "Pet Frienddly? YES"
+        }
+    }
+]

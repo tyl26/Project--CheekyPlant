@@ -83,7 +83,7 @@
         "care": {
             "light": "Light: Low to Bright Indirect",
             "water": "Water :Should be watered when the top 3-4 inches of the potting mix are dry. This converted to days would be every 7-8 days in the summer and every 13-14 days in the cooler months",
-            "temp": "Temp: 60°F to 75°F (15°C to 24°C)" ,
+            "temp": "Temp: 60°F to 75°F (15°C to 24°C)",
             "humidity": "Humidity: Above average",
             "petFriendly": "Pet Frienddly? NO"
         }
@@ -96,7 +96,7 @@
         "Site": "Indoor and Outdoor",
         "careLevel": " Easy Care ",
         "care": {
-            "light": "Light: Low to Bright Indirect"                    ,
+            "light": "Light: Low to Bright Indirect",
             "water": " Water: Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light(warmer months) and less often in lower light(colder months).",
             "temp": "Temp: 65°F-85°F range (18°C-30°C)",
             "humidity": "Humidity: Above average",
@@ -127,7 +127,7 @@
         "careLevel": " Medium Care ",
         "care": {
             "light": "Light: Low to Bright Indirect",
-            "water": "Water: Once the top inch of soil is dry, your plant needs more water. In the summer, you'll likely water once a week. Druing winter water every two weeks"        ,
+            "water": "Water: Once the top inch of soil is dry, your plant needs more water. In the summer, you'll likely water once a week. Druing winter water every two weeks",
             "temp": "Temp: 60°F(15°C)-80°F (26°C)",
             "humidity": "Humidity: Above average",
             "petFriendly": "Pet Frienddly? NO"

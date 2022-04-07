@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Nunito:wght@400;500&family=Playfair+Display:wght@400;500&family=Work+Sans&display=swap');
+
+
+:root {
+  --background-color: #F3F2EC;
+  --main-Font: 'Playfair Display', serif;
+  --sec-font: 'Work Sans', sans-serif;
+  --main-color: #05502A;
+  --sec-color: #7b704f;
+}
+
+body {
+  padding: 0;
+  margin: 0 auto;
+
+}
+
+.start {
+  max-width: 450px;
+  background-color: var(--background-color);
+  margin: .5rem auto;
+  padding: 1rem;
+
+}
+
+
+img {
+  width: 55px;
+}
+
+.startImg {
+  width: 420px;
+}
+
+.startContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-family: var(--main-Font);
+  color: var(--main-color);
+  font-size: 2rem;
+  margin: -.5rem 0 3.5rem 0;
+}
+
+.intro {
+  font-family: var(--main-Font);
+  color: var(--sec-color);
+  font-size: 1rem;
+}
+
+.getPlanting,
+.top,
+.selectBtn,
+.favorites,
+.careBtn {
+  padding: 1.5rem;
+  font-size: 1.4rem;
+  background: rgb(20, 20, 20);
+  background: linear-gradient(90deg, rgba(20, 20, 20, 1) 0%, rgba(6, 76, 40, 1) 68%, rgba(5, 80, 42, 1) 100%);
+  color: white;
+  border-radius: 2rem;
+  border: none;
+  font-family: var(--sec-font);
+  cursor: pointer;
+}
+
+.getPlanting:hover,
+.selectBtn:hover,
+.top:hover,
+.favorites:hover,
+.careBtn:hover {
+  background: var(--sec-color);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.searchPlants {
+  width: 400px;
+  padding: .6rem;
+  border-radius: .6rem;
+  margin: 1.5rem auto 2rem auto;
+  border: none;
+  box-shadow: 0px 0px 5px rgb(91, 91, 91);
+  background-color: var(--background-color);
+  font-size: 1.2rem;
+  font-family: var(--main-Font);
+  color: var(--main-color);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  margin: -3rem 0 0 -2rem;
+
+}
+
+.favorites {
+  margin-top: -1rem;
+  font-size: .8rem;
+  padding: .6rem;
+}
+
+.find {
+  margin: 5rem .8rem 0 auto;
+  font-family: var(--sec-font);
+  color: #7b7b7b;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.plant {
+  color: var(--main-color);
+  font-weight: 700;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product {
+  margin-top: 4rem;
+
+}
+
+.productImg {
+  width: 250px;
+  box-shadow: 0px 0px 5px var(--main-color);
+  border-radius: 2rem;
+  margin-left: 1.8rem;
+}
+
+.plantName {
+  font-family: var(--main-Font);
+  font-size: 1.2rem;
+  text-align: center;
+  color: var(--sec-color);
+}
+
+.btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+
+}
+
+.selectBtn,
+.careBtn {
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.top {
+  position: fixed;
+  top: 39rem;
+  margin-left: 25rem;
+  padding: .6rem;
+  font-size: 1rem;
+}
+
+.selectedProductsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+
+}
+
+.selectedBtns {
+  display: flex;
+  gap: 10rem;
+}
+
+#jungle {
+  width: 140px;
+}
+
+#productPic {
+  margin: 5rem auto;
+}
+
+.selectedTitle {
+  font-family: var(--main-Font);
+  font-size: 1.2rem;
+}
+
+.selectedPara {
+  font-family: var(--main-Font);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--sec-color);
+  text-align: center;
+}
+
+#name {
+  font-size: 2rem;
+}
+
+.favoritePlant {
+  display: flex;
+  margin-top: 5rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.trash {
+  font-size: 2rem;
+  border: none;
+  background: transparent;
+  color: var(--main-color);
+}
+
+.trash:hover {
+  color: red;
+  font-size: 2.2rem;
+}
+
+#favPic {
+  width: 100px;
+  margin-left: -1rem;
+}
+.quote{
+  margin-top: 10rem;
+  font-family: var(--main-Font);
+  font-size: 1rem;
+  text-align: center;
+
+}
+.empty{
+  font-family: var(--main-Font);
+  font-size: 1.5rem;
+  text-align: center;
+  color: #7b704f;
+}
+#Myjungle{
+  text-align: center;
+  margin-top: 2.5rem;
+}
